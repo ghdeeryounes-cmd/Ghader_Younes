@@ -31,7 +31,7 @@ Ich bin ein leidenschaftlicher Einsteiger, der aktuell intensiv auf der Suche na
 Ich folge einem strukturierten Plan, um meine Fähigkeiten schrittweise zu erweitern:
 
 - [ ] 1. Erweiterte Frontend-Entwicklung: Bootstrap, Tailwind CSS, TypeScript und React.js.
-- [ ] 2. Backend & Datenbanken: Django/Flask, MySQL und REST APIs.
+- [ ] 2. Backend & Datenbanken: Django/Flask, MySQL, MongoDB und REST APIs.
 - [ ] 3. Informatik-Grundlagen: Datenstrukturen und Algorithmen.
 - [ ] 4. Fortgeschrittene Themen: Monorepos (Nx), PWA, WebSockets und GraphQL.
 - [ ] 5. Architektur & Cross-Platform: CI/CD, Design Patterns, Ionic (Mobil) und Electron JS (Desktop).
