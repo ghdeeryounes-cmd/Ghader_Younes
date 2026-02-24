@@ -38,11 +38,6 @@ Ich folge einem strukturierten Plan, um meine Fähigkeiten schrittweise zu erwei
 
 ---
 
-### 📊 GitHub Statistik
-![Ghader's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
----
-
 ### 📬 Kontakt
 <a href="mailto:ghdeeryounes@gmail.com">
   <img src="https://img.shields.io/badge/Email-ghdeeryounes@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
