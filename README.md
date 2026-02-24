@@ -30,13 +30,11 @@ Ich bin ein leidenschaftlicher Einsteiger, der aktuell intensiv auf der Suche na
 ### 🚀 Mein Lernpfad (Roadmap)
 Ich folge einem strukturierten Plan, um meine Fähigkeiten schrittweise zu erweitern:
 
-- [ ] 1. Erweiterte Frontend-Entwicklung: Bootstrap, Tailwind CSS, TypeScript und React.js.
+- [ ] 1. Erweiterte Frontend-Entwicklung: Tailwind CSS, TypeScript und React.js.
 - [ ] 2. Backend & Datenbanken: Django/Flask, MySQL, MongoDB und REST APIs.
 - [ ] 3. Informatik-Grundlagen: Datenstrukturen und Algorithmen.
-- [ ] 4. Fortgeschrittene Themen: Monorepos (Nx), PWA, WebSockets und GraphQL.
-- [ ] 5. Architektur & Cross-Platform: CI/CD, Design Patterns, Ionic (Mobil) und Electron JS (Desktop).
-
----
+- [ ] 4. Fortgeschrittene Themen: Monorepos (Nx), Server Side Rendering, PWA, npm, Realtime (WebSockets) und GraphQLn.
+- [ ] 5. Architektur & Cross-Platform: Serverless (AWS Lambda), Software Architect (Clean), CDN , CI/CD, Design Patterns, Ionic (Mobil) und Electron JS (Desktop).
 
 ### 📬 Kontakt
 <a href="mailto:ghdeeryounes@gmail.com">
